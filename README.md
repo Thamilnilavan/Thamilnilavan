@@ -6,22 +6,33 @@ Full-Stack Developer • Modern UI Engineer • Creative Technologist
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Frontend:**
-React • Next.js • Tailwind CSS • TypeScript
-
-**Backend:**
-Node.js • Express • Firebase • REST APIs
-
-**Database:**
-MongoDB • SQL 
-
-**Tools:**
-Git • GitHub • VS Code
+- 🔥 Building premium modern web applications
+- 🎨 Focused on UI/UX + Product Design
+- ⚡ Creating scalable full-stack systems
+- 🌍 Based in Sri Lanka
 
 ---
 
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
 
 
 ## 🌐 Connect With Me
@@ -30,5 +41,6 @@ Git • GitHub • VS Code
 - Email: yourmail@gmail.com
 
 ---
-
-⚡ "Code is not just logic, it's experience."
+<h3 align="center">
+⚡ Designing Experiences, Not Just Websites ⚡
+</h3>
