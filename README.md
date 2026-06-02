@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Thamilnilavan&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/uthayarajathamilnilavan-ba39b930a">
+  <a href="www.linkedin.com/in/thamilnilavanu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Pavasuthan2002@gmail.com">
