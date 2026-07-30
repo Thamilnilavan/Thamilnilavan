@@ -189,7 +189,7 @@ const thamilnilavan = {
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://tamil03.vercel.app/">
+  <a href="https://thamilnilavan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
