@@ -32,7 +32,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="300" src="assets/portrait.svg" alt="Thamilnilavan — portrait drawn with programming characters"/>
 
 ```typescript
 const thamilnilavan = {
