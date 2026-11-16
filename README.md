@@ -117,14 +117,7 @@ const thamilnilavan = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Thamilnilavan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thamilnilavan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Thamilnilavan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamilnilavan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
+<div align="center"> <img height="180em" src="https://raw.githubusercontent.com/Thamilnilavan/Thamilnilavan/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/> <img height="180em" src="https://raw.githubusercontent.com/Thamilnilavan/Thamilnilavan/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages"/> </div> <div align="center"> <img src="https://raw.githubusercontent.com/Thamilnilavan/Thamilnilavan/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%"/> <img src="https://raw.githubusercontent.com/Thamilnilavan/Thamilnilavan/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%"/> </div>
 
 ---
 
